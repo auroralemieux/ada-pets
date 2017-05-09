@@ -51,7 +51,7 @@ group :development do
 end
 
 group :test do
-  gem 'minitest-spec-rails'
+  gem 'minitest-rails'
   gem 'minitest-reporters'
 end
 
